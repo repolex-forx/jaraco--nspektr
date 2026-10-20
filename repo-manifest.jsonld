@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/nspektr/commit/5d29faa1f92054fe0a600a2f90b03365b0a3221d",
       "git:hexsha": "5d29faa1f92054fe0a600a2f90b03365b0a3221d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/nspektr/commit/f3daf90a2053aa5972324493b34eebbe11ec875b",
