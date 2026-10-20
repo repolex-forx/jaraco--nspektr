@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "nspektr",
+  "versions": [
+    {
+      "commit": "5d29faa1f92054fe0a600a2f90b03365b0a3221d",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:22:27.568274+00:00"
+    }
+  ]
+}
